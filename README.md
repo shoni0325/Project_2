@@ -25,7 +25,10 @@
 # **PPT**
 ![image](https://github.com/shoni0325/Project_2/assets/129731878/cd537d0c-9567-45f1-a441-64cca06ce719)
 ![image](https://github.com/shoni0325/Project_2/assets/129731878/e04c2d91-8924-43ba-b218-c11e16ed138c)
-
+![image](https://github.com/shoni0325/Project_2/assets/129731878/c6bc6a54-bbf2-4aa5-8aa4-c87f7e0fcfda)
+![image](https://github.com/shoni0325/Project_2/assets/129731878/dc557cc1-26f1-4a79-bd96-11a3231de805)
+![image](https://github.com/shoni0325/Project_2/assets/129731878/e61f87f8-b2fc-480b-ab6a-4f68f0071c5f)
+![image](https://github.com/shoni0325/Project_2/assets/129731878/6a23b80f-7208-4266-9481-74e146977f03)
 
 
 
