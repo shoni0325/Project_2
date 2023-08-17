@@ -5,7 +5,8 @@
 # **프로젝트 개요**
 - 외감기업을 상장기업, 비상장기업으로 나누어 부실예측 모형을 만든다.
   - 전통적 통계기법, 머신러닝, 딥러닝을 다양하게 활용하여 모델링을 수행한다.
-  - 사용한 분석 기법 : Naive Bayes, Logistic Regression, Random Forest, XGBoost, LightGBM, CatBoost, SVM, DNN, TabNet, Stacking
+  - 사용한 분석 기법
+    : Naive Bayes, Logistic Regression, Random Forest, XGBoost, LightGBM, CatBoost, SVM, DNN, TabNet, Stacking
 - 도출된 Feature 들을 바탕으로 사전적인 부실 지수를 산출한다.
 
 
